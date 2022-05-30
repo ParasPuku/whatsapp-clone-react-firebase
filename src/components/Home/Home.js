@@ -2,12 +2,12 @@ import React from "react";
 import Sidebar from "../Sidebar/Sidebar";
 import "./Home.css";
 
-const Home = () => {
+const Home = ({ currentUser, signOut }) => {
   return (
     <div className="home">
       <div className="home-container">
         {/* Sidebar */}
-        <Sidebar />
+        <Sidebar currentUser={currentUser} signOut={signOut} />
         {/* A container with whatsapp logo */}
         <div className="home-bg">
           <img src="./connection.png" alt="" />
