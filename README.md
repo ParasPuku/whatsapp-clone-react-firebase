@@ -1,3 +1,11 @@
+# Live URL - 
+
+# Pages Screenshots - 
+![w1](https://user-images.githubusercontent.com/65712411/171122842-869c9f28-0e7c-49e8-9d23-18ed9fce148c.JPG)
+![w2](https://user-images.githubusercontent.com/65712411/171122847-b7886fde-0d68-473d-8c09-01f8fd134659.JPG)
+![w3](https://user-images.githubusercontent.com/65712411/171122855-b26600cd-c691-418b-a9c6-ed0fefefe6ba.JPG)
+![w4](https://user-images.githubusercontent.com/65712411/171122820-624bd8d8-8388-477a-aa3a-08baa11c10e5.JPG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
